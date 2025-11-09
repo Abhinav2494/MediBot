@@ -1,0 +1,15 @@
+{
+  "name": "medbot",
+  "version": "1.0.0",
+  "description": "## Prerequisite: Install Pipenv Follow the official Pipenv installation guide to set up Pipenv on your system:   [Install Pipenv Documentation](https://pipenv.pypa.io/en/latest/installation.html)",
+  "main": "llm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.29.0",
+    "@google/generative-ai": "^0.24.1"
+  }
+}
